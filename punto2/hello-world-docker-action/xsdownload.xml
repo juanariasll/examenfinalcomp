@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dls:downloaded-schemas defaultDirectory="./schema" xmlns:dls="http://www.bea.com/2003/01/xmlbean/xsdownload">
+  <dls:entry>
+    <dls:filename>./Dockerfile</dls:filename>
+    <dls:sha1>9339DBA862EC670ECF4D072C260064D2C854678D</dls:sha1>
+  </dls:entry>
+</dls:downloaded-schemas>
